@@ -1,3 +1,4 @@
+Hello wolrd it is just for fun
 # The Algorithms - Python [![Build Status](https://travis-ci.org/TheAlgorithms/Python.svg)](https://travis-ci.org/TheAlgorithms/Python)
 
 ### All algorithms implemented in Python (for education)
